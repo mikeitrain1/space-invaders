@@ -1,5 +1,5 @@
 # space-invaders
-a clone of the  arcade game Space-Invaders
+a clone of the  classic arcade game Space-Invaders
 
 
 testing 
