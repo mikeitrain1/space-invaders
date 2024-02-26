@@ -14,14 +14,13 @@ int main()
     {
         //1 event handling
         //
-        //
         //2upadting postion
         if(IsKeyDown(KEY_RIGHT)) 
-            {
+        {
             ballx += 6;
-            }
+        }
         else if (IsKeyDown(KEY_LEFT)) 
-            {
+        {
             ballx -= 6; 
         }
         else if (IsKeyDown(KEY_UP)) 
@@ -30,13 +29,9 @@ int main()
         }
 
         else if (IsKeyDown(KEY_DOWN)) 
-            {
+        {
             bally += 6; 
-            }
-
-
-
-
+        }
         //
         //
         //drawing
